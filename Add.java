@@ -1,5 +1,7 @@
 class Add{
     public static void main(String[] args) {
-        System.out.println("Addition of 2 and 3 is: "+(2+3));
+        int a =20;
+        int b=50;
+        System.out.println("Addition of 2 and 3 is: "+(a+b));
     }
 }
